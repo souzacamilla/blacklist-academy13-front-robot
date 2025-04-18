@@ -4,7 +4,7 @@ Test Setup  Abrir Navegador
 
 *** Test Cases ***
 
-CT01 - Criar Departamento
+CT07 - Criar Departamento
     Passo 1 - acessar pagina login QA Coders
     Passo 2 - Digitar Email QA Coders
     Passo 3 - Inserir Senha
