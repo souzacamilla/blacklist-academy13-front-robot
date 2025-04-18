@@ -11,10 +11,10 @@ ${inserir_senha}    //*[@id="password"]
 ${clicar_botão_login}   //button[normalize-space()='Entrar']
 ${clicar_cadastro}        //span[@class='MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-yb0lig']
 ${clicar_CentroDeCusto}    //*[@id="Centro de Custo"]/span
-${clicar_NovoCadastro}    //*[@id="Novo Cadastro"]   ##//button[@id='Novo Cadastro']
+${clicar_NovoCadastro}    //button[@id='Novo Cadastro']
 ${Cadastrar_CentroDeCusto}    //*[@id="costCentername"]
 ${clicar_botão_Salvar_Novo}    //*[@id="save"]
-   
+
 
 
 *** Keywords ***

@@ -11,7 +11,7 @@ ${inserir_senha}    //*[@id="password"]
 ${clicar_botão_login}   //button[normalize-space()='Entrar']
 ${clicar_cadastro}        //span[@class='MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-yb0lig']
 ${clicar_departamento}    //span[normalize-space()='Departamento']    ##//*[@id="Departamento"]/span
-${clicar_novo_cadastro}    //*[@id="Novo Cadastro"]
+${clicar_novo_cadastro}    //button[@id='Novo Cadastro']
 ${criar_departamento}    //*[@id="departmentName"]
 ${clicar_botão_salvarNovo}    //*[@id="save"]
 ${validação_mensagem}    <div class="MuiAlert-message css-1xsto0d">Não é possível salvar esse registro. Departamento já cadastrado no sistema.</div>
