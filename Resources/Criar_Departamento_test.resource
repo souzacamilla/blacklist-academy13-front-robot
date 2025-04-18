@@ -10,7 +10,7 @@ ${inserir_email}    //*[@id="email"]
 ${inserir_senha}    //*[@id="password"]
 ${clicar_botão_login}   //button[normalize-space()='Entrar']
 ${clicar_cadastro}        //span[@class='MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-yb0lig']
-${clicar_departamento}    //*[@id="Departamento"]/span
+${clicar_departamento}    //span[normalize-space()='Departamento']    ##//*[@id="Departamento"]/span
 ${clicar_novo_cadastro}    //*[@id="Novo Cadastro"]
 ${criar_departamento}    //*[@id="departmentName"]
 ${clicar_botão_salvarNovo}    //*[@id="save"]
