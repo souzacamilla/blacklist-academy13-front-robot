@@ -1,0 +1,19 @@
+1745001962310	geckodriver	INFO	Listening on 127.0.0.1:54050
+1745001965440	mozrunner::runner	INFO	Running command: "C:\\Users\\camil\\.cache\\selenium\\firefox\\win64\\137.0.2\\firefox.exe" "--marionette" "-headless" "--rem ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\camil\\AppData\\Local\\Temp\\rust_mozprofileOnkN8j"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1745001967218	Marionette	INFO	Marionette enabled
+1745001967392	Marionette	INFO	Listening on port 54081
+WebDriver BiDi listening on ws://127.0.0.1:54051
+Read port: 54081
+1745001967588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54051/devtools/browser/7284e66b-fd71-49c2-801a-c9972e7beb6d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://black-list-front.qacoders.dev.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://black-list-front.qacoders.dev.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://black-list-front.qacoders.dev.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://black-list-front.qacoders.dev.br."
+Exiting due to channel error.
