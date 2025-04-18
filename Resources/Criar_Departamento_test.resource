@@ -10,7 +10,7 @@ ${inserir_email}    //*[@id="email"]
 ${inserir_senha}    //*[@id="password"]
 ${clicar_botão_login}   //button[normalize-space()='Entrar']
 ${clicar_cadastro}        //span[@class='MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-yb0lig']
-${clicar_departamento}    //span[normalize-space()='Departamento']    ##//*[@id="Departamento"]/span
+${clicar_departamento}    //span[normalize-space()='Departamento']    
 ${clicar_novo_cadastro}    //button[@id='Novo Cadastro']
 ${criar_departamento}    //*[@id="departmentName"]
 ${clicar_botão_salvarNovo}    //*[@id="save"]
@@ -25,7 +25,7 @@ ${validação_mensagem}    <div class="MuiAlert-message css-1xsto0d">Não é pos
 
 *** Keywords ***
 Abrir Navegador
-    Open Browser    browser=chrome
+    Open Browser    browser=headlessfirefox
     Maximize Browser Window
 
 Fechar Navegador
