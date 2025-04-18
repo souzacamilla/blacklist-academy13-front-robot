@@ -19,7 +19,7 @@ ${clicar_botão_Salvar_Novo}    //*[@id="save"]
 
 *** Keywords ***
 Abrir Navegador
-    Open Browser    browser=headlesschrome
+    Open Browser    browser=headlessfirefox
     Maximize Browser Window
 
 Fechar Navegador
