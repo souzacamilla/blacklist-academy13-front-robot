@@ -39,6 +39,7 @@ O Robot Framework é uma ferramenta de automação de testes que utiliza uma abo
 
 1. Clone o repositório:
    ```bash
+   git clone
       
 ## Estrutura do Projeto
 
