@@ -1,4 +1,4 @@
-# BlackList-Academy-Frontend-RobotFramework
+# Academy-Frontend-RobotFramework
 
 🚧 RobotFramework - Frontend🚧
 
@@ -7,7 +7,7 @@
 # Este repositório contém um projeto de automação de testes para aplicações frontend utilizando o Robot Framework.
 
 
-📄 Projeto desenvolvido durante Academy T13 Black List oferecida pela QA Coders Academy, utilizando o Robot Framework para automatizar testes de interface de usuário (UI) de um aplicativo web. Ele abrange testes funcionais e exploratórios.
+📄 Projeto desenvolvido durante o Academy oferecido pela QA Coders Academy, utilizando o Robot Framework para automatizar testes de interface de usuário (UI) de um aplicativo web. Ele abrange testes funcionais e exploratórios.
 
 # Projeto de Testes Automatizados com Robot Framework
 
@@ -39,7 +39,7 @@ O Robot Framework é uma ferramenta de automação de testes que utiliza uma abo
 
 1. Clone o repositório:
    ```bash
-   git clone
+   git clone "endereço do repositório"
       
 ## Estrutura do Projeto
 
