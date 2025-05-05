@@ -14,7 +14,7 @@ Passo 8 - Nome Departamento em Branco
 
 Passo 10 - Validação de Mensagem em Branco
     Wait Until Page Contains    text=O campo diretoria é obrigatório
-    Wait Until Page Contains Element    locator=//p[@class='css-kl4grr'][contains(.,'O campo diretoria é obrigatório')]
+    Wait Until Page Contains Element    locator=//p[@class='css-bbipig'][contains(.,'O campo diretoria é obrigatório')]
     Sleep    1s
  
 ##########################
@@ -54,7 +54,7 @@ Passo 8 - Nome Departamento Mais de 50 Caracteres
 
 Passo 10 - Validação de Mensagem Mais de 50 Caracteres
     Wait Until Page Contains    text=O campo diretoria pode ter no máximo 50 caracteres
-    Wait Until Page Contains Element    locator=//p[@class='css-kl4grr'][contains(.,'O campo diretoria pode ter no máximo 50 caracteres')]
+    Wait Until Page Contains Element    locator=//p[@class='css-bbipig'][contains(.,'O campo diretoria pode ter no máximo 50 caracteres')]
     Sleep    1s
 
 ###    Nome Departamento com 1 Caractere
@@ -65,5 +65,5 @@ Passo 8 - Nome Departamento com 1 Caractere
 
 Passo 10 - Validação de Mensagem com 1 Caractere
     Wait Until Page Contains    text=O campo diretoria deve conter no minímo 2 caracteres
-    Wait Until Page Contains Element    locator=//p[@class='css-kl4grr'][contains(.,'O campo diretoria deve conter no minímo 2 caracteres')]
+    Wait Until Page Contains Element    locator=//p[@class='css-bbipig'][contains(.,'O campo diretoria deve conter no minímo 2 caracteres')]
     Sleep    1s
